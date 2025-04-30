@@ -1,0 +1,66 @@
+h1 { 
+    color: teal;
+    text-align: center;
+    letter-spacing: 20px;
+    word-spacing: 20px;
+}
+
+p {
+    text-indent: 50px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+
+h2 {
+    font-size: 20px;
+    text-decoration: overline;
+}
+
+h3 {
+    text-decoration: line-through;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+.MyElement {
+    color: teal ;
+}
+
+#Normaltext {
+    font-style: normal;
+    font-weight: normal;
+}
+
+#italictext {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#Obliquetext {
+    font-style: oblique;
+    font-weight: 900;
+}
+
+a {
+    color: aqua;
+}
+
+a:visited {
+    color: red;
+}
+
+a:link {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
